@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="timestamp">14sp</dimen>
+    <dimen name="judul_text">18sp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="input_new_berita">20sp</dimen>
+    <dimen name="lbl_judul_title">20sp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="margin_top_no_data">120sp</dimen>
+    <dimen name="msg_no_data">25sp</dimen>
+</resources>

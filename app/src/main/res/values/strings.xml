@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUD ALPHA</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_enter_title">JuduL Berita</string>
+    <string name="hint_enter_content">Isi Berita</string>
+    <string name="lbl_isi_berita">Isi Berita</string>
+    <string name="lbl_judul_berita">Judul Berita</string>
+    <string name="lbl_Tambah_berita">Tambah Berita</string>
+    <string name="lbl_Edit_berita">Edit Berita</string>
+    <string name="msg_no_data">Tidak ada data</string>
+</resources>
